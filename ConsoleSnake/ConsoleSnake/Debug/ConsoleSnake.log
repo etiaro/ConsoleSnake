@@ -1,0 +1,4 @@
+﻿  ConsoleSnake.cpp
+c:\users\jakub\source\repos\consolesnake\consolesnake\consolesnake\consolesnake.cpp(130): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleSnake.vcxproj -> C:\Users\Jakub\Source\Repos\ConsoleSnake\ConsoleSnake\Debug\ConsoleSnake.exe
+  ConsoleSnake.vcxproj -> C:\Users\Jakub\Source\Repos\ConsoleSnake\ConsoleSnake\Debug\ConsoleSnake.pdb (Full PDB)
